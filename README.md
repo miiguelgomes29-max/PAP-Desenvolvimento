@@ -1,2 +1,2 @@
 # PAP-Desenvolvimento
-Este projeto simula o desenvolvimento de uma aplicação web para gestão de tarefas, utilizando GitHub para controlo de versão e colaboração.😁
+LocalSpot é uma aplicação web que permite descobrir, pesquisar e divulgar eventos e atividades locais através de um mapa interativo. Os utilizadores podem consultar eventos, filtrar por categoria e data, visualizar detalhes e criar os seus próprios eventos.
